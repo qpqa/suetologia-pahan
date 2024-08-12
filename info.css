@@ -1,0 +1,36 @@
+
+.hedder{
+    background-color: rgb(194, 191, 191);
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 5px;
+    max-height: 50px;
+}
+.ava{
+    max-width: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+    max-height: 30px;
+}
+a{
+    margin-left: 100px;
+    margin-top: 13px;
+    display: inline-block;
+    
+}
+.textinhedder{
+    flex: block;
+    display: inline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+p{
+    text-align: center;
+    font-size: 23px;
+    color: white;
+}
+body {
+    background-image: url('picture/fon.png');
+  
+  }

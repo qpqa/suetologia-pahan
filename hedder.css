@@ -1,0 +1,44 @@
+.hedder{
+    background-color: rgb(61, 61, 61);
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 5px;
+    max-height: 50px;
+}
+.textinhedder{
+    flex: block;
+    display: inline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+a{
+    margin-left: 100px;
+    margin-top: 13px;
+    display: inline-block;
+    color: blue;
+    text-decoration: none;
+
+}
+a:hover{
+    color: red;
+}
+.ava{
+    max-width: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+    max-height: 30px;
+}
+.welcome{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    transition: transform 2s;
+}
+.welcome:hover{
+    transform: scale(1.8);
+}
+body {
+    background-image: url('picture/fon.png');
+    background-size: cover;
+  }
